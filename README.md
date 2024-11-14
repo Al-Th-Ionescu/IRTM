@@ -1,7 +1,7 @@
 
 # Document Search and Indexing System
 
-This project is a document indexing and search system developed using Apache Lucene, which is designed to support efficient searching across a collection of documents. The system leverages a custom analyzer for Romanian language support, enabling accurate text normalization and stemming of Romanian content.
+This project is a document indexing and search tool built with Apache Lucene. It enables fast, efficient searching across collections of documents, even handling Romanian language specifics to improve search accuracy. A custom-built analyzer processes Romanian text, removing diacritics and performing stemming to ensure that searches yield the most relevant results.
 
 ## Features
 
